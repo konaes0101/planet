@@ -2,3 +2,5 @@ Notes:
 Mars is dead silent, scarlet, and terribly cold.
 Moons: 2
 Weather: Dry
+
+Color: Mostly red
