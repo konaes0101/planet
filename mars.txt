@@ -4,3 +4,4 @@ Moons: 2
 Weather: Dry
 Color: Mostly red
 Arrived: 2020-05-12
+Clouds:none
